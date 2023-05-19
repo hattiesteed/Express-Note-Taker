@@ -8,3 +8,4 @@
 5. Your new note will appear saved on the left hand side
 6. "Write" icon, when clicked, will present with empty fields to enter a new note
 7. New note will be saved along with past notes
+8. User will be able to delete saved notes
