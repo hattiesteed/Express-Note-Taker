@@ -9,3 +9,6 @@
 6. "Write" icon, when clicked, will present with empty fields to enter a new note
 7. New note will be saved along with past notes
 8. User will be able to delete saved notes
+
+## Link to deployed application
+https://hats-express-note-taker.herokuapp.com/
